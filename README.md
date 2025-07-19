@@ -11,8 +11,19 @@ Developed using **NodeMCU ESP32**, this project allows control and monitoring of
 
 ## 📷 Project Setup
 
-![Hardware Setup](screenshots/smartspace_setup.png)
+![Hardware Setup](System Setup.jpeg)
 
+## 📷 Activity Diagram
+
+![Hardware Setup](Activity_Diagram.png)
+
+## 📷 Website Dashboard
+
+![Hardware Setup](Website Dashboard.png)
+
+## 📷 Android Dashboard
+
+![Hardware Setup](Android Dashboard.png)
 ---
 
 ## 🚀 Features
