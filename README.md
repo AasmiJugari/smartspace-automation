@@ -11,7 +11,7 @@ Developed using **NodeMCU ESP32**, this project allows control and monitoring of
 
 ## 📷 Project Setup
 
-![Hardware Setup](System Setup.jpeg)
+![Hardware Setup](System_Setup.jpeg)
 
 ## 📷 Activity Diagram
 
@@ -19,11 +19,11 @@ Developed using **NodeMCU ESP32**, this project allows control and monitoring of
 
 ## 📷 Website Dashboard
 
-![Hardware Setup](Website Dashboard.png)
+![Hardware Setup](Website_Dashboard.png)
 
 ## 📷 Android Dashboard
 
-![Hardware Setup](Android Dashboard.png)
+![Hardware Setup](Android_Dashboard.png)
 ---
 
 ## 🚀 Features
